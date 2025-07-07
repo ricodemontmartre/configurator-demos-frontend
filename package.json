@@ -25,6 +25,11 @@
     "@types/react-dom": "^19",
     "eslint": "^9",
     "eslint-config-next": "15.3.5",
+    "glsl-loader": "^0.0.1",
+    "glsl-shader-loader": "^0.1.6",
+    "glslify": "^7.1.1",
+    "glslify-loader": "^2.0.0",
+    "raw-loader": "^4.0.2",
     "typescript": "^5"
   }
 }
